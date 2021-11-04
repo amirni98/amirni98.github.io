@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+    min-height: 100vh;
+}
+
+li {
+    font-size: large;
+}
